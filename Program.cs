@@ -15,10 +15,6 @@ Console.WriteLine();
 Console.WriteLine("Yours array after filtration with basis = 3:");
 PrintArray(resultArray);
 
-
-
-
-
 void FilterArray(string[] array)
 {
     int basis = 3;
